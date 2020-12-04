@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FarmAnimalSample</string>
+    <string name="add_button">Add farm animal</string>
+    <string name="name_hint">Enter new farm animal</string>
+    <string name="save_btn">Save</string>
+    <string name="empty_not_saved">Animal not saved because it is empty.</string>
+</resources>
